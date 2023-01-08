@@ -5,5 +5,5 @@ Each sub-repos are a part of different open-source projects: \
 LLVM: https://github.com/llvm/llvm-project \
 GCC:  https://github.com/riscv-collab/riscv-gnu-toolchain \
 Details on my website\
-https://github.com/dhjoo98/undergrad_RISCV
+https://dhjoo.info/2023/01/09/llvm-gcc-riscv-extension/
 
